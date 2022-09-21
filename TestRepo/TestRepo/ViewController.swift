@@ -26,6 +26,9 @@ class ViewController: UIViewController {
         print("언체인5")
         print("언체인6")
         print("언체인7")
+        print("언체인8")
+        print("언체인9")
+        print("언체인10")
     }
 }
 
