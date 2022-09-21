@@ -26,6 +26,8 @@ class ViewController: UIViewController {
         print("눈누난나")
         print("눈누난나2")
         print("눈누난나3")
+        print("눈누난나4")
+        print("언첸핀하이")
     }
 }
 
