@@ -16,6 +16,7 @@ class ViewController: UIViewController {
         print("재재1")
         
         print("언체인2")
+        print("재재2")
     }
 
 
