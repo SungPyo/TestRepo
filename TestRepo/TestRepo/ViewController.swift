@@ -28,6 +28,16 @@ class ViewController: UIViewController {
         print("눈누난나3")
         print("눈누난나4")
         print("언첸핀하이")
+        /*:
+         sadflk;
+         asdf
+         sadf
+         qwaeflksadgfhjkwae
+         sad
+         g
+         waeg
+         
+         */
     }
 }
 
