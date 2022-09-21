@@ -14,6 +14,8 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
         print("언체인1")
         print("재재1")
+        
+        print("언체인2")
     }
 
 
